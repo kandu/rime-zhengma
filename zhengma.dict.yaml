@@ -120,6 +120,7 @@ encoder:
 喜爱	bp	42600000
 二月	bq	54800000
 五月	bq	49700000
+五月	aq	49700000
 元	br	994000000
 专	bs	301000000
 专门	bt	91200000
@@ -1011,7 +1012,6 @@ encoder:
 𡉪	bhi	0
 域	bhj	64000000
 堰	bhk	5350000
-城	bhv	464000000
 城	bhy	464000000
 越	bhz	458000000
 㠪	bia	4740
@@ -1033,6 +1033,7 @@ encoder:
 𪤭	bio	0
 𪣩	biq	0
 五	bix	796000000
+五	axvv	790000000
 𡊊	bix	0
 𢀑	bix	0
 卭	biy	25800
@@ -6919,6 +6920,7 @@ encoder:
 仕	nbv	38300000
 𦥧	nbw	0
 伍	nbx	24000000
+伍	nax	24000000
 遚	nbx	23700
 伟	nby	67200000
 𦥕	nby	0
@@ -9497,7 +9499,9 @@ encoder:
 諸	sbs	0
 誌	sbw	71200000
 語	sbx	204000000
+語	sax	204000000
 语	sbx	234000000
+语	sax	234000000
 讳	sby	1630000
 𧬥	sby	0
 䛩	sbz	3400
@@ -10602,7 +10606,9 @@ encoder:
 誊	ubs	1260000
 悻	ubu	735000
 悟	ubx	18500000
+悟	uax	18500000
 焐	ubx	908000
+焐	uax	908000
 券	uby	241000000
 𨚜	uby	0
 𫹴	uby	0
@@ -15693,6 +15699,7 @@ encoder:
 一角	avrl	15100000
 一色	avry	9640000
 一语	avsb	8610000
+一语	avsa	8610000
 一新	avsf	7680000
 一部	avsj	137000000
 一亩	avsk	2000000
@@ -17086,6 +17093,7 @@ encoder:
 𧷱	bixf	0
 𠁰	bixh	0
 吾	bixj	34000000
+吾	axj	34000000
 𠵥	bixj	0
 𥄪	bixl	0
 垆	bixm	256000
@@ -19486,10 +19494,14 @@ encoder:
 𡎝	bxag	0
 𣫆	bxai	0
 五百	bxan	12700000
+五百	axan	12700000
 五列	bxar	118000
+五列	axar	118000
 𡏈	bxau	0
 五一	bxav	34200000
+五一	axav	34200000
 五万	bxay	8060000
+五万	axay	8060000
 垏	bxbd	91100
 墛	bxbd	306000
 𪤳	bxbd	0
@@ -19509,6 +19521,7 @@ encoder:
 声势	bxdq	5350000
 𣫐	bxdq	0
 五指	bxdr	5330000
+五指	axdr	5330000
 𣤫	bxdr	0
 𪇘	bxdr	0
 𫭯	bxds	0
@@ -19516,6 +19529,7 @@ encoder:
 㦞	bxdw	6860
 𨞪	bxdy	0
 五十	bxed	63800000
+五十	axed	63800000
 𡉜	bxed	0
 𪤍	bxeh	0
 𡍄	bxej	0
@@ -19525,23 +19539,28 @@ encoder:
 𪔰	bxex	0
 罄	bxez	1900000
 五楼	bxfu	4810000
+五楼	axfu	4810000
 𡏺	bxfv	0
 块根	bxfx	286000
 块	bxgd	186000000
 五原	bxgn	348000
+五原	axgn	348000
 𪵑	bxgn	0
 𡎔	bxhb	0
 𣫒	bxhb	0
 声区	bxho	1230000
 五成	bxhv	5770000
+五成	axhv	5770000
 声卡	bxia	24400000
 𦖜	bxic	0
 𡐆	bxii	0
 五点	bxij	6800000
+五点	axij	6800000
 声频	bxik	180000
 壻	bxiq	85800
 𣀓	bxix	0
 五味	bxjb	4970000
+五味	axjb	4970000
 壽	bxjd	13400000
 𡑎	bxjd	0
 𡔽	bxjd	0
@@ -19564,6 +19583,7 @@ encoder:
 𪐕	bxke	0
 𣫙	bxkf	0
 五星	bxkm	20400000
+五星	axkm	20400000
 墀	bxkm	699000
 𡍅	bxkm	0
 声明	bxkq	542000000
@@ -19576,6 +19596,7 @@ encoder:
 𡓹	bxls	0
 𡎹	bxlx	0
 五千	bxme	12000000
+五千	axme	12000000
 𥗚	bxmg	0
 𪣓	bxmh	0
 𠭐	bxmi	0
@@ -19585,24 +19606,33 @@ encoder:
 𥢮	bxmm	0
 声称	bxmr	12800000
 五代	bxnh	6180000
+五代	axnh	6180000
 五保	bxnj	1050000
+五保	axnj	1050000
 㙌	bxno	4380
 五份	bxno	443000
+五份	axno	443000
 𧹷	bxno	0
 声像	bxnr	1380000
 五倍	bxns	2150000
+五倍	axns	2150000
 声息	bxnw	4390000
 𣫣	bxoi	0
 𬆍	bxoi	0
 𧷀	bxol	0
 五谷	bxoo	1970000
+五谷	axoo	1970000
 𡑴	bxoq	0
 𪍱	bxor	0
 㲆	bxow	4350
 五分	bxoy	18600000
+五分	axoy	18600000
 五金	bxpa	94900000
+五金	axpa	94900000
 五彩	bxpf	9500000
+五彩	axpf	9500000
 五岳	bxpl	1920000
+五岳	axpl	1920000
 聲	bxqc	63400000
 𡏷	bxqd	0
 㯏	bxqf	3840
@@ -19625,9 +19655,11 @@ encoder:
 謦	bxqs	1130000
 𪚣	bxqs	0
 五脏	bxqt	2840000
+五脏	axqt	2840000
 㷫	bxqu	5710
 𥼆	bxqu	0
 五月	bxqv	49700000
+五月	axqv	49700000
 殸	bxqx	73800
 𡍰	bxqx	0
 㘲	bxqy	8860
@@ -19658,20 +19690,25 @@ encoder:
 块煤	bxue	233000
 塀	bxue	2380000
 五米	bxuf	1360000
+五米	axuf	1360000
 五类	bxug	3010000
+五类	axug	3010000
 壗	bxul	36900
 𡓂	bxuy	0
 声誉	bxva	10200000
 五洲	bxvv	4390000
+五洲	axvv	4390000
 声学	bxvw	2000000
 声波	bxvx	1410000
 𣫝	bxwb	0
 五寨	bxwe	209000
+五寨	axwe	209000
 声速	bxwf	128000
 埽	bxwl	348000
 坡道	bxwu	632000
 埐	bxwx	49100
 五官	bxwy	10100000
+五官	axwy	10100000
 𫶲	bxxb	0
 𪤌	bxxf	0
 㘧	bxxi	4260
@@ -20821,6 +20858,7 @@ encoder:
 鵈	cerz	28200
 𦗅	cerz	0
 耳语	cesb	536000
+耳语	cesa	536000
 𤧬	cesc	0
 𦗐	cesg	0
 𦘄	cesg	0
@@ -25807,7 +25845,7 @@ encoder:
 鸷	dqsr	383000
 𬡓	dqsr	0
 热	dqsu	335000000
-势	dqsy	49300000
+势	dqsy	30000000
 抛弃	dqsz	17900000
 絷	dqsz	155000
 势头	dqtg	15900000
@@ -25990,6 +26028,7 @@ encoder:
 批评	drsa	60700000
 指证	drsa	736000
 批语	drsb	397000
+批语	drsa	397000
 拘谨	drse	7640000
 批文	drso	4300000
 指认	drso	801000
@@ -26685,6 +26724,7 @@ encoder:
 𫽵	dwry	0
 𢸐	dwrz	0
 按语	dwsb	365000
+按语	dwsa	365000
 探讨	dwsd	48900000
 𢲟	dwse	0
 探亲	dwsf	5600000
@@ -28037,6 +28077,7 @@ encoder:
 𠧋	edbu	0
 𬹙	edbu	0
 十五	edbx	81200000
+十五	edax	81200000
 𠄼	edbx	0
 韩	edby	165000000
 𡜌	edbz	0
@@ -29978,6 +30019,7 @@ encoder:
 𪆰	ekrr	0
 𬸭	ekrr	0
 朝鲜	ekru	21800000
+朝鲜民主主义人民共和国	eryss	22800000
 𥀥	ekrx	0
 暮色	ekry	2990000
 葛	ekry	23900000
@@ -30256,6 +30298,7 @@ encoder:
 𦫰	elry	0
 𧄞	elrz	0
 英语	elsb	166000000
+英语	elsa	166000000
 南靖	elsc	736000
 献计	else	2420000
 真诚	elsh	69200000
@@ -31910,6 +31953,7 @@ encoder:
 𦷫	evmz	0
 范例	evna	7490000
 落伍	evnb	5420000
+落伍	evna	5420000
 𦴷	evnc	0
 𦭴	evnd	0
 薬	evnf	25000000
@@ -33241,6 +33285,7 @@ encoder:
 𬷕	fbrz	0
 票证	fbsa	2260000
 标语	fbsb	5610000
+标语	fbsa	5610000
 标识	fbsj	27500000
 敷	fbsm	21500000
 𪵐	fbsq	0
@@ -35537,6 +35582,7 @@ encoder:
 查阅	fktu	43800000
 轆	fktx	668000
 醒悟	fkub	5120000
+醒悟	fkua	5120000
 𬧹	fkub	0
 樸	fkuc	2230000
 檏	fkuc	31100
@@ -37052,6 +37098,7 @@ encoder:
 𩿯	fsrz	0
 校订	fssa	337000
 术语	fssb	15400000
+术语	fssa	15400000
 敷设	fssq	1490000
 校庆	fstg	3270000
 校准	fstn	1720000
@@ -38417,6 +38464,7 @@ encoder:
 槂	fymz	24400
 𦁝	fymz	0
 配伍	fynb	975000
+配伍	fyna	975000
 柫	fynd	24900
 配售	fynj	2840000
 配偶	fynk	17400000
@@ -41981,6 +42029,7 @@ encoder:
 威望	hasq	156000000
 感应	hatv	12900000
 感悟	haub	27500000
+感悟	haua	27500000
 威慑	hauc	2740000
 感情	hauc	121000000
 感性	haum	24200000
@@ -43218,6 +43267,7 @@ encoder:
 成风	hvqo	1880000
 成名	hvrj	24400000
 成语	hvsb	13000000
+成语	hvsa	13000000
 成就	hvsj	56600000
 成熟	hvsj	79700000
 成交	hvso	53400000
@@ -46171,6 +46221,7 @@ encoder:
 号角	jarl	6500000
 𠯪	jars	0
 口语	jasb	18900000
+口语	jasa	18900000
 口音	jask	3800000
 吴旗	jasm	141000
 口头	jatg	10300000
@@ -46406,6 +46457,7 @@ encoder:
 唛	jcrs	1010000
 国务	jcry	2090000
 国语	jcsb	23700000
+国语	jcsa	23700000
 呈请	jcsc	204000
 𫫨	jcsc	0
 国产	jcsm	80800000
@@ -50873,6 +50925,7 @@ encoder:
 𣆃	kart	0
 鴠	karz	41200
 日语	kasb	50500000
+日语	kasa	50500000
 𣋇	kasd	0
 题意	kask	920000
 日产	kasm	8370000
@@ -54097,6 +54150,7 @@ encoder:
 罢工	lbbi	7870000
 𥉖	lbbw	0
 周五	lbbx	25800000
+周五	lbax	25800000
 赌场	lbby	8160000
 周三	lbcd	27100000
 周长	lbch	1050000
@@ -58408,6 +58462,7 @@ encoder:
 用处	lvri	7570000
 𥋕	lvrl	0
 用语	lvsb	9100000
+用语	lvsa	9100000
 用意	lvsk	45700000
 眺望	lvsq	10600000
 用煤	lvue	819000
@@ -59272,6 +59327,7 @@ encoder:
 鴙	marz	58700
 短评	masa	719000
 短语	masb	8260000
+短语	masa	8260000
 𫧬	masb	0
 拜读	mase	2390000
 𢆏	mase	0
@@ -64254,6 +64310,7 @@ encoder:
 𨼕	mybq	0
 𩼐	mybr	0
 第五	mybx	77900000
+第五	myax	77900000
 气功	myby	3550000
 𥭵	myby	0
 氬	mybz	2240000
@@ -64820,6 +64877,7 @@ encoder:
 毁灭	nbau	16000000
 𪕌	nbax	0
 伍万	nbay	132000
+伍万	naay	132000
 𦥤	nbay	0
 侤	nbaz	21600
 𦀥	nbaz	0
@@ -64855,6 +64913,7 @@ encoder:
 𦦣	nbcx	0
 传抄	nbdk	316000
 伍拾	nbdo	289000
+伍拾	nado	289000
 传授	nbdp	10700000
 传播	nbdp	202000000
 传热	nbdq	1450000
@@ -65051,6 +65110,7 @@ encoder:
 𪕋	nbmy	0
 𬛻	nbmy	0
 伍佰	nbna	4170000
+伍佰	nana	4170000
 𡓓	nbnb	0
 𦦀	nbnb	0
 仁川	nbnd	1800000
@@ -65061,6 +65121,7 @@ encoder:
 𨿀	nbni	0
 𥃔	nbnl	0
 伍仟	nbnm	145000
+伍仟	nanm	145000
 𦦚	nbno	0
 𦦪	nbno	0
 𦦲	nbno	0
@@ -65068,6 +65129,7 @@ encoder:
 𪕨	nbnr	0
 𢤒	nbnw	0
 伍亿	nbny	146000
+伍亿	nany	146000
 𦦁	nbnz	0
 𦦞	nboa	0
 𦦡	nboa	0
@@ -65319,6 +65381,7 @@ encoder:
 𬹭	nbxb	0
 䑖	nbxi	4180
 俉	nbxj	82200
+俉	naxj	82200
 鼯	nbxj	239000
 𪕛	nbxj	0
 𪕹	nbxj	0
@@ -67618,6 +67681,7 @@ encoder:
 𨝺	nlry	0
 𪖙	nlrz	0
 自语	nlsb	11400000
+自语	nlsa	11400000
 自主	nlsc	69700000
 自谋	nlse	1020000
 辠	nlse	24900
@@ -67849,6 +67913,7 @@ encoder:
 作证	nmsa	3240000
 凭证	nmsa	9140000
 俄语	nmsb	6740000
+俄语	nmsa	6740000
 作主	nmsc	4910000
 伤亡	nmsh	10100000
 任意	nmsk	109000000
@@ -68062,6 +68127,7 @@ encoder:
 伦	norr	49700000
 𦆗	nors	0
 俗语	nosb	5260000
+俗语	nosa	5260000
 𠉫	nosc	0
 伦敦	nosj	26600000
 俗话	nosm	9120000
@@ -68650,6 +68716,7 @@ encoder:
 𫣌	nurz	0
 伪证	nusa	580000
 粤语	nusb	13100000
+粤语	nusa	13100000
 伙计	nuse	3760000
 伴音	nusk	491000
 𠍵	nusk	0
@@ -68849,6 +68916,7 @@ encoder:
 𩼐	nxbr	0
 僻壤	nxbs	157000
 伊吾	nxbx	196000
+伊吾	nxax	196000
 健	nxby	86300000
 𪺣	nxcd	0
 𤗮	nxcl	0
@@ -69963,6 +70031,7 @@ encoder:
 人气	odmy	189000000
 𨛭	odmy	0
 入伍	odnb	3350000
+入伍	odna	3350000
 人身	odnc	54300000
 𩣈	odnc	0
 介	odnd	50400000
@@ -70325,6 +70394,7 @@ encoder:
 德行	oeoi	2890000
 德钦	oepr	375000
 德语	oesb	11000000
+德语	oesa	11000000
 德文	oeso	5410000
 德育	oesz	11800000
 德庆	oetg	791000
@@ -71580,6 +71650,7 @@ encoder:
 领头	owtg	5830000
 领奖	owtr	2890000
 领悟	owub	16700000
+领悟	owua	16700000
 领情	owuc	1310000
 领养	owun	4900000
 领海	owvm	1220000
@@ -79691,6 +79762,7 @@ encoder:
 外务	riry	1160000
 外包	riry	8100000
 外语	risb	76700000
+外语	risa	76700000
 外部	risj	44400000
 外调	risl	543000
 外交	riso	44600000
@@ -82402,7 +82474,9 @@ encoder:
 𧦯	saro	0
 评比	sarr	8120000
 言语	sasb	17400000
+言语	sasa	17400000
 评语	sasb	5980000
+评语	sasa	5980000
 言论	saso	132000000
 评论	saso	644000000
 评议	sass	10100000
@@ -82479,7 +82553,9 @@ encoder:
 讲稿	sbms	1180000
 诗篇	sbmw	2890000
 语气	sbmy	17700000
+语气	samy	17700000
 语委	sbmz	308000
+语委	samz	308000
 讲	sbnd	291000000
 𧨿	sbnk	0
 𧨃	sbno	0
@@ -82497,6 +82573,7 @@ encoder:
 䛃	sbrd	3490
 诗句	sbrj	4250000
 语句	sbrj	9550000
+语句	sarj	9550000
 𧪡	sbrk	0
 𬤓	sbrk	0
 讲解	sbrl	16500000
@@ -82504,25 +82581,33 @@ encoder:
 诸多	sbrv	27400000
 𫤋	sbry	0
 语言	sbsa	211000000
+语言	sasa	211000000
 讲课	sbsk	4960000
 语音	sbsk	47700000
+语音	sask	47700000
 语调	sbsl	5140000
+语调	sasl	5140000
 讲话	sbsm	43400000
 讲义	sbso	12200000
 诗文	sbso	3950000
 语文	sbso	59400000
+语文	saso	59400000
 𨬇	sbsp	0
 𨮲	sbsp	0
 䙝	sbsr	3730
 褻	sbsr	919000
 诗词	sbsy	28000000
 语病	sbta	395000
+语病	sata	395000
 讲座	sbto	27400000
 䛭	sbub	3300
 譆	sbuj	231000
 语料	sbut	151000
+语料	saut	151000
 语法	sbvb	27900000
+语法	savb	27900000
 语汇	sbvh	541000
+语汇	savh	541000
 讲学	sbvw	1980000
 讲演	sbvw	1980000
 讲述	sbwf	26300000
@@ -82533,8 +82618,11 @@ encoder:
 誌	sbwz	71200000
 诸暨	sbxh	3870000
 語	sbxj	204000000
+語	saxj	204000000
 语	sbxj	234000000
+语	saxj	234000000
 语录	sbxk	9680000
+语录	saxk	9680000
 誟	sbya	21600
 诸子	sbya	2190000
 诬陷	sbyr	1560000
@@ -84067,6 +84155,7 @@ encoder:
 鸾	skrz	1850000
 𬷛	skrz	0
 谓语	sksb	1340000
+谓语	sksa	1340000
 永靖	sksc	664000
 竭诚	sksh	9360000
 衰亡	sksh	933000
@@ -84409,6 +84498,7 @@ encoder:
 话务	smry	1030000
 颜色	smry	178000000
 话语	smsb	18000000
+话语	smsa	18000000
 许诺	smse	3430000
 话音	smsk	5930000
 族谱	smsu	818000
@@ -85326,6 +85416,7 @@ encoder:
 𧫘	ssrr	0
 辩证	sssa	3760000
 谚语	sssb	3000000
+谚语	sssa	3000000
 𧭘	sssk	0
 议论	ssso	11700000
 该文	ssso	3010000
@@ -86197,6 +86288,7 @@ encoder:
 𧭠	swru	0
 䛷	swry	3290
 谜语	swsb	7030000
+谜语	swsa	7030000
 𧪹	swse	0
 忘记	swsy	434000000
 𬢰	swsy	0
@@ -86687,6 +86779,7 @@ encoder:
 方言	sysa	10500000
 堃	sysb	1370000
 词语	sysb	19300000
+词语	sysa	19300000
 𡑔	sysb	0
 𫯄	sysb	0
 𩔣	sysg	0
@@ -90386,6 +90479,7 @@ encoder:
 差劲	ubxb	7080000
 半壁	ubxj	560000
 悟	ubxj	18500000
+悟	uaxj	18500000
 𠦯	ubxo	0
 𠢁	ubxy	0
 𡞟	ubxz	0
@@ -94959,6 +95053,7 @@ encoder:
 鴻	vbrz	11700000
 鸿	vbrz	39000000
 法语	vbsb	14700000
+法语	vbsa	14700000
 𤄁	vbsi	0
 𣼯	vbsj	0
 江永	vbsk	824000
@@ -98177,6 +98272,7 @@ encoder:
 浓妆	vwtz	926000
 深兰	vwub	342000
 觉悟	vwub	9240000
+觉悟	vwua	9240000
 深情	vwuc	20400000
 㴹	vwuf	4830
 澻	vwug	25000
@@ -98427,6 +98523,7 @@ encoder:
 𢛜	vxrw	0
 㳗	vxsb	3890
 汉语	vxsb	27000000
+汉语	vxsa	27000000
 𤃎	vxsb	0
 𣹲	vxse	0
 溞	vxsi	76300
@@ -100517,6 +100614,7 @@ encoder:
 逐句	wgrj	598000
 家务	wgry	7310000
 寄语	wgsb	5720000
+寄语	wgsa	5720000
 寄主	wgsc	710000
 家族	wgsm	254000000
 寄放	wgsm	1130000
@@ -102035,6 +102133,7 @@ encoder:
 䢬	wprm	3570
 𨘖	wpro	0
 宾语	wpsb	590000
+宾语	wpsa	590000
 宾主	wpsc	1310000
 近郊	wpso	7650000
 祈望	wpsq	505000
@@ -104030,6 +104129,7 @@ encoder:
 退税	wxmu	6250000
 通气	wxmy	5040000
 退伍	wxnb	8600000
+退伍	wxna	8600000
 通什	wxne	214000
 通牒	wxne	1660000
 退休	wxnf	48800000
@@ -107216,6 +107316,7 @@ encoder:
 预言	xxsa	10300000
 预订	xxsa	27600000
 双语	xxsb	9590000
+双语	xxsa	9590000
 艰辛	xxse	9650000
 预计	xxse	58300000
 预谋	xxse	2350000
@@ -108694,6 +108795,7 @@ encoder:
 阶乘	yomt	138000
 坠毁	yonb	3340000
 队伍	yonb	53700000
+队伍	yona	53700000
 阶段	yonc	105000000
 阶	yond	20300000
 除息	yonw	1340000
@@ -111324,6 +111426,7 @@ encoder:
 䋵	zkry	3700
 𫄕	zkrz	0
 妙语	zksb	4040000
+妙语	zksa	4040000
 妙计	zkse	1900000
 绯闻	zktc	7040000
 𦄾	zkuc	0
@@ -114497,6 +114600,7 @@ encoder:
 好评	zysa	45000000
 纫	zysa	560000
 母语	zysb	2180000
+母语	zysa	2180000
 母亲	zysf	160000000
 好意	zysk	15400000
 好话	zysm	3380000
@@ -115310,6 +115414,7 @@ encoder:
 无私无畏	amakh	279000
 一年一度	amatv	4380000
 一千五百米	ambau	17900
+一千五百米	amaau	17900
 一等功	ambby	372000
 平等互惠	ambfw	135000
 一等品	ambjj	456000
@@ -116042,6 +116147,7 @@ encoder:
 地下开采	baapf	91700
 喜形于色	baary	517000
 二万五千里长征	babmk	253000
+二万五千里长征	baamk	253000
 老于世故	baeej	141000
 地形图	baejr	1150000
 老干部	baesj	3490000
@@ -116052,6 +116158,7 @@ encoder:
 地下室	baiwh	7190000
 起死回生	bajmc	2500000
 五一国际劳动节	bajye	547000
+五一国际劳动节	aajye	547000
 都可以	bajzo	82400000
 地下水面	bakgj	11000
 地下水位	bakns	538000
@@ -116088,6 +116195,7 @@ encoder:
 土壤有机质	bbgfp	248000
 二项式	bbghb	170000
 五项原则	bbglk	437000
+五项原则	abglk	437000
 井井有条	bbgrf	1310000
 工夫不负有心人	bbgrg	116000
 赫赫有名	bbgrj	1690000
@@ -116174,6 +116282,7 @@ encoder:
 赫哲族	bdpsm	390000
 均热炉	bdquw	16900
 五指山	bdrll	1150000
+五指山	adrll	1150000
 互换性	bdrum	385000
 塔拉瓦	bdsaz	83300
 地拉那	bdsyb	130000
@@ -116196,6 +116305,7 @@ encoder:
 二十点	bedij	209000
 二十米	beduf	206000
 五十米	beduf	3820000
+五十米	aeduf	3820000
 坑蒙拐骗	bedxw	466000
 堪萨斯城	beebh	230000
 示范基地	beebv	1850000
@@ -116204,6 +116314,7 @@ encoder:
 攻其不备	begrk	247000
 动荡不安	begwz	741000
 五花大绑	begzc	388000
+五花大绑	aegzc	388000
 考勤簿	bejmv	21000
 坦克兵	bejpo	179000
 考古学	bejvw	6820000
@@ -116219,6 +116330,7 @@ encoder:
 老花眼	benlx	489000
 老花镜	benps	623000
 五花八门	beotl	11400000
+五花八门	aeotl	11400000
 塔斯社	bepwb	154000
 超期服役	beqoq	356000
 考勤记录	besxk	299000
@@ -116288,6 +116400,7 @@ encoder:
 老大爷	bgdoo	936000
 吉大港	bgdve	84800
 五大洲	bgdvv	1120000
+五大洲	agdvv	1120000
 志大才疏	bgdxi	151000
 老大难	bgdxn	628000
 老大娘	bgdzs	329000
@@ -116379,6 +116492,7 @@ encoder:
 专题片	bkanx	2280000
 二日游	bkavs	1720000
 五日游	bkavs	905000
+五日游	akavs	905000
 塔里木	bkbfa	1120000
 越野车	bkbhe	4860000
 土里土气	bkbmy	232000
@@ -116396,6 +116510,7 @@ encoder:
 工业基础	bkegz	744000
 二甲基甲酰胺	bkekf	201000
 五光十色	bkery	1740000
+五光十色	akery	1740000
 塔里木盆地	bkfob	376000
 塔里木河	bkfva	543000
 未尝不可	bkgaj	1110000
@@ -116408,6 +116523,7 @@ encoder:
 工业生产	bkmsm	3260000
 二星级	bkmzy	1300000
 五星级	bkmzy	8230000
+五星级	akmzy	8230000
 专业分工	bkobi	538000
 专业人员	bkojl	7540000
 起早贪黑	bkolb	884000
@@ -116438,14 +116554,18 @@ encoder:
 攻坚战	bkxij	1390000
 专业对口	bkxja	531000
 五当山	bkxll	23800
+五当山	akxll	23800
 赶鸭子上架	bkyiy	296000
 工业建筑	bkymb	760000
 教师队伍	bkynb	4620000
+教师队伍	bkyna	4620000
 工业统计	bkzse	202000
 五星红旗	bkzsm	1210000
+五星红旗	akzsm	1210000
 土崩瓦解	blarl	718000
 土默特	blbmb	260000
 五四青年节	blcme	239000
+五四青年节	alcme	239000
 老同志	bldbw	2050000
 专用基金	blepa	124000
 互助友爱	blgpw	217000
@@ -116461,6 +116581,7 @@ encoder:
 专用设备	blsrk	4960000
 专用线	blvzh	547000
 五四运动	blwbz	871000
+五四运动	alwbz	871000
 志同道合	blwoa	4540000
 老眼光	blxkg	116000
 未见异常	blykw	174000
@@ -116498,6 +116619,7 @@ encoder:
 老年人	bmmod	10700000
 二年级	bmmzy	11400000
 五年级	bmmzy	5630000
+五年级	ammzy	5630000
 二氧化碳	bmngl	4820000
 二氧化氮	bmnmu	326000
 嘉年华会	bmnob	248000
@@ -116507,6 +116629,7 @@ encoder:
 喜笑颜开	bmsae	540000
 专利商标事务所	bmsfd	122000
 五年计划	bmshk	1030000
+五年计划	amshk	1030000
 土特产品	bmsjj	1210000
 工程设计	bmsse	7700000
 老年痴呆	bmtjf	1940000
@@ -116528,6 +116651,7 @@ encoder:
 二传手	bnbmd	204000
 二段式	bnchb	281000
 五体投地	bndbv	2080000
+五体投地	andbv	2080000
 工伤事故	bndej	538000
 工作报告	bndmj	7810000
 塔什干	bneae	547000
@@ -116537,6 +116661,7 @@ encoder:
 去伪存真	bngel	389000
 去向不明	bngkq	430000
 五保户	bnjwm	558000
+五保户	anjwm	558000
 增白剂	bnksn	860000
 工作小组	bnkzl	1750000
 工作岗位	bnlns	8040000
@@ -116566,6 +116691,7 @@ encoder:
 来华访问	bnstj	292000
 二位数	bnsuz	217000
 五位数	bnsuz	345000
+五位数	ansuz	345000
 工作方法	bnsvb	3220000
 塔什库尔干	bntra	407000
 工作单位	bnuns	6050000
@@ -116580,10 +116706,12 @@ encoder:
 坏人坏事	bobdj	131000
 来人来函	bobxk	189000
 五谷丰登	bocxa	331000
+五谷丰登	aocxa	331000
 老人家	bodwg	10400000
 埃德蒙顿	boehz	1110000
 未分配利润	bofmv	1880000
 五谷不分	bogoy	122000
+五谷不分	aogoy	122000
 工人日报	bokdy	1660000
 赶得上	bokiv	414000
 坏得多	bokrv	833
@@ -116594,6 +116722,7 @@ encoder:
 越俎代庖	bontr	369000
 老爷爷	boooo	1040000
 五谷杂粮	boqus	707000
+五谷杂粮	aoqus	707000
 均衡度	bortv	30300
 均衡性	borum	415000
 走街穿巷	boweo	16600
@@ -116615,6 +116744,7 @@ encoder:
 劫后余生	bpomc	477000
 城镇居民	bpxyh	3090000
 五彩缤纷	bpzzo	2650000
+五彩缤纷	apzzo	2650000
 地膜覆盖	bqful	426000
 动脉硬化	bqgnr	3550000
 赤膊上阵	bqiyh	282000
@@ -116623,15 +116753,18 @@ encoder:
 鼓风机	bqofq	893000
 动脉血	bqsml	292000
 五脏六腑	bqsqt	947000
+五脏六腑	aqsqt	947000
 动脉瘤	bqstr	651000
 动脉弓	bqsyz	8570
 五月份	bqvno	2330000
+五月份	aqvno	2330000
 地久天长	brach	913000
 吉尔吉斯斯坦	brbee	1330000
 吉尔吉斯	brbep	3380000
 声名鹊起	breby	374000
 超负荷运转	brewh	255000
 五角大楼	brgfu	2120000
+五角大楼	argfu	2120000
 超外差	briub	74000
 塔尔寺	brkbd	474000
 功名利禄	brmwx	354000
@@ -116671,6 +116804,7 @@ encoder:
 地方财政	bslai	3110000
 城市化	bslnr	5210000
 五讲四美	bslug	384000
+五讲四美	aslug	384000
 地市级	bslzy	928000
 工商管理	bsmck	12900000
 地方特色	bsmry	4070000
@@ -116692,6 +116826,7 @@ encoder:
 功率放大器	bssgj	1030000
 教育方针	bsspe	1180000
 五颜六色	bssry	3360000
+五颜六色	assry	3360000
 教育部门	bsstl	2730000
 互诉衷情	bssuc	10400
 教育问题	bstka	1950000
@@ -116796,12 +116931,14 @@ encoder:
 动滑轮	bvlho	48100
 云游四方	bvlsy	243000
 五湖四海	bvlvm	2900000
+五湖四海	avlvm	2900000
 土法生产	bvmsm	18800
 教学秩序	bvmtx	685000
 声泪俱下	bvnai	693000
 教学质量	bvpka	4280000
 地滚球	bvscd	32200
 五渡河	bvtva	1230
+五渡河	avtva	1230
 教学情况	bvutj	368000
 喜洋洋	bvuvu	939000
 教学楼	bvwfu	3590000
@@ -116858,6 +116995,7 @@ encoder:
 填空补缺	bwwme	8110
 填补空白	bwwnk	289000
 五边形	bwyae	161000
+五边形	awyae	161000
 工字形	bwyae	83000
 老字号	bwyja	2980000
 工字钢	bwypl	746000
@@ -116907,7 +117045,9 @@ encoder:
 教练机	bzhfq	497000
 教练员	bzhjl	1620000
 五线谱	bzhsu	695000
+五线谱	azhsu	695000
 五台山	bzjll	4530000
+五台山	azjll	4530000
 未能得逞	bzowj	72700
 城乡人民	bzoyh	588000
 未婚妻	bzrax	2940000
@@ -116933,6 +117073,7 @@ encoder:
 聚丙烯	caluo	3980000
 春夏秋冬	camrt	9990000
 三百六十五天	caseb	724000
+三百六十五天	casea	724000
 责无旁贷	casnh	985000
 静平衡	cauor	93400
 肆无忌惮	cayuu	3730000
@@ -116951,6 +117092,7 @@ encoder:
 青城山	cbhll	784000
 表示感谢	cbhsn	5090000
 三五成群	cbhxj	1010000
+三五成群	cahxj	1010000
 耕地占用税	cbilm	556000
 表示同意	cblsk	1910000
 职工代表大会	cbncg	934000
@@ -116968,6 +117110,7 @@ encoder:
 表示祝贺	cbwyj	1380000
 环境卫生	cbymc	3360000
 职工队伍	cbynb	969000
+职工队伍	cbyna	969000
 现场会	cbyob	1810000
 碧云寺	cbzbd	134000
 职工收入	cbzod	447000
@@ -117199,6 +117342,7 @@ encoder:
 联合体	coanf	1900000
 联合会	coaob	18600000
 三令五申	cobki	876000
+三令五申	coaki	876000
 联合声明	cobkq	1060000
 联合攻关	cobug	508000
 敖德萨	coeey	194000
@@ -117224,6 +117368,7 @@ encoder:
 联合收割机	cozwf	472000
 联合组织	cozzj	714000
 三番五次	cpbtr	1040000
+三番五次	cpatr	1040000
 理所当然	cpkrg	7270000
 青铜器	cpljj	3410000
 青铜峡	cpllb	576000
@@ -117260,6 +117405,7 @@ encoder:
 三角函数	crxuz	487000
 邦交正常化	csakn	193000
 三言两语	csasb	1490000
+三言两语	csasa	1490000
 肆意攻击	csbbz	85600
 理论工作者	csbnb	358000
 理论联系实际	cscmw	1710000
@@ -117909,6 +118055,7 @@ encoder:
 势必牵动	dwgbz	6020
 求之不得	dwgok	2120000
 执迷不悟	dwgub	956000
+执迷不悟	dwgua	956000
 接连不断	dwgzu	1020000
 据初步统计	dwizs	762000
 提心吊胆	dwjqk	2180000
@@ -118025,7 +118172,9 @@ encoder:
 博士生	ebamc	11400000
 博士后	ebapa	5410000
 十五攻关项目	ebbub	38600
+十五攻关项目	eabub	38600
 十五攻关计划	ebbus	993
+十五攻关计划	eabus	993
 劳动报酬	ebdfv	1150000
 十二点	ebdij	2920000
 十二月	ebdqv	30000000
@@ -118050,11 +118199,13 @@ encoder:
 敬老院	ebryw	3110000
 黄土高原	ebsgn	1100000
 十五计划	ebshk	360000
+十五计划	eashk	360000
 落地式	ebvhb	438000
 落地灯	ebvua	511000
 劳动密集型	ebwna	2020000
 劳动定额	ebwwr	271000
 十五点	ebxij	296000
+十五点	eaxij	296000
 劳动强度	ebytv	1670000
 劳动者	ebzbm	6780000
 劳动节	ebzey	2350000
@@ -118499,6 +118650,7 @@ encoder:
 世贸组织	erzzj	3500000
 协商一致	esahm	1060000
 花言巧语	esbsb	1480000
+花言巧语	esbsa	1480000
 敬请批评指正	esdsd	33400
 献计献策	esemf	1460000
 基诺族	esesm	228000
@@ -118974,6 +119126,7 @@ encoder:
 西印度群岛	frtxr	182000
 相比之下	frwai	6280000
 标语牌	fsbnn	306000
+标语牌	fsann	306000
 西方世界	fseko	931000
 零敲碎打	fsgda	108000
 核试验	fshxo	527000
@@ -120776,6 +120929,7 @@ encoder:
 中文信息处理	jsnnr	139000
 中文信息	jsnnw	1080000
 只言片语	jsnsb	1020000
+只言片语	jsnsa	1020000
 听诊器	jsojj	698000
 中文系	jsomz	3490000
 中文版	jsonp	87400000
@@ -121160,6 +121314,7 @@ encoder:
 星期一	keqav	47500000
 星期二	keqbd	47000000
 星期五	keqbx	52300000
+星期五	keqax	52300000
 星期三	keqcd	46700000
 星期日	keqka	44400000
 星期四	keqlk	47700000
@@ -121970,6 +122125,7 @@ encoder:
 睦邻政策	loamf	17300
 黑盒子	loaya	547000
 四分五裂	lobar	1370000
+四分五裂	loaar	1370000
 四个现代化	locnn	370000
 罗得西亚	lofak	20600
 同行者	loibm	1680000
@@ -122252,6 +122408,7 @@ encoder:
 符拉迪沃斯托克	mdwve	157000
 手提录影机	mdxkf	460
 科技队伍	mdynb	268000
+科技队伍	mdyna	268000
 特拉维夫	mdzbo	479000
 千真万确	meagr	1260000
 垂直平分线	meaoz	48700
@@ -122270,6 +122427,7 @@ encoder:
 毛南族	melsm	328000
 繁花似锦	menpn	632000
 第十个五年计划	meobm	373000
+第十个五年计划	meoam	373000
 私营企业	meoku	8860000
 短期行为	meouv	822000
 穆斯林	mepff	3060000
@@ -122715,6 +122873,7 @@ encoder:
 知识密集型	mswna	267000
 答谢宴会	mswob	38800
 甜言蜜语	mswsb	3470000
+甜言蜜语	mswsa	3470000
 特立尼达和多巴哥	msxwm	384000
 笔记本	msyfa	92500000
 等离子体	msynf	870000
@@ -123389,6 +123548,7 @@ encoder:
 自高自大	nsngd	318000
 优良作风	nsnqo	559000
 自言自语	nsnsb	6970000
+自言自语	nsnsa	6970000
 保证供应	nsntv	391000
 集训队	nsnyo	330000
 优良传统	nsnzs	2620000
@@ -123416,6 +123576,7 @@ encoder:
 作斗争	nterx	1420000
 佯装不知	ntgmj	98700
 低头不语	ntgsb	717000
+低头不语	ntgsa	717000
 白头到老	nthbr	714000
 健康成长	nthch	4210000
 集装箱货运船	ntmnw	1150
@@ -123630,6 +123791,7 @@ encoder:
 全封闭	obbtd	1750000
 人老珠黄	obcek	108000
 八五期间	obetk	1160000
+八五期间	oaetk	1160000
 众志成城	obhbh	1370000
 循规蹈矩	objmh	1140000
 愈来愈	obkoa	6320000
@@ -124734,6 +124896,7 @@ encoder:
 独立自主	qsnsc	2240000
 股市低迷	qsnwu	114000
 风言风语	qsqsb	796000
+风言风语	qsqsa	796000
 独立性	qsuum	5040000
 胆识过人	qswod	288000
 几方面	qsygj	4010000
@@ -125030,6 +125193,7 @@ encoder:
 外贸出口	rrzja	5280000
 外贸出口额	rrzjw	97800
 外语系	rsbmz	1640000
+外语系	rsamz	1640000
 外商投资企业	rsdto	4980000
 外商投资	rsdtr	7610000
 鸟语花香	rsemk	3390000
@@ -125792,7 +125956,9 @@ encoder:
 诡计多端	ssrsl	400000
 语言识别	sssjy	67200
 言谈话语	ssssb	75000
+言谈话语	ssssa	75000
 豪言壮语	sstsb	974000
+豪言壮语	sstsa	974000
 高谈阔论	sstso	1970000
 辩证关系	ssumz	526000
 六畜兴旺	ssvkc	142000
@@ -125981,7 +126147,9 @@ encoder:
 高附加值	syyne	2110000
 部队建设	syysq	351000
 新疆维吾尔族	syzbr	381000
+新疆维吾尔族	syzar	381000
 新疆维吾尔自治区	syzbr	1920000
+新疆维吾尔自治区	syzar	1920000
 新疆维族	syzsm	31500
 变幻无常	szakw	369000
 高级教师	szbka	1160000
@@ -126227,6 +126395,7 @@ encoder:
 北京地区	tsbho	17900000
 阅读器	tsejj	11800000
 闲言碎语	tsgsb	1280000
+闲言碎语	tsgsa	1280000
 北京大学	tsgvw	19400000
 北京人	tsjod	5720000
 北京市	tsjsl	114000000
@@ -126245,6 +126414,7 @@ encoder:
 将计就计	tssse	824000
 决议案	tsswz	518000
 冷言冷语	tstsb	380000
+冷言冷语	tstsa	380000
 座谈会	tsuob	11400000
 废弃物	tszmr	2480000
 应变能力	tszym	1870000
@@ -126297,6 +126467,7 @@ encoder:
 减速剂	twfsn	12600
 应运而生	twgmc	3380000
 痴迷不悟	twgub	43400
+痴迷不悟	twgua	43400
 背道而驰	twgxy	3260000
 决定因素	twjcz	1570000
 庆祝会	twjob	403000
@@ -126638,6 +126809,7 @@ encoder:
 慢条斯理	ureck	1290000
 愤然而起	urgby	40700
 恍然大悟	urgub	6040000
+恍然大悟	urgua	6040000
 怦然心动	urwbz	461000
 养儿防老	urybr	213000
 半夜三更	uscak	1030000
@@ -127124,9 +127296,11 @@ encoder:
 注意到	vskhk	21800000
 消音器	vskjj	581000
 流言蜚语	vsksb	808000
+流言蜚语	vsksa	808000
 注意力	vskym	14400000
 流离失所	vsmpv	830000
 污言秽语	vsmsb	412000
+污言秽语	vsmsa	412000
 兴高采烈	vspar	5750000
 溶剂脱蜡	vsqie	8870
 洗衣机	vsrfq	16400000
@@ -128118,6 +128292,7 @@ encoder:
 双喜临门	xbktl	629000
 眉来眼去	xblbz	499000
 欢声笑语	xbmsb	1360000
+欢声笑语	xbmsa	1360000
 驱动程序	xbmtx	12100000
 居功自傲	xbnnc	193000
 马塔乌图	xbrjr	924
@@ -128445,6 +128620,7 @@ encoder:
 阳春白雪	ycnfx	1120000
 加聚反应	ycptv	15900
 隔三差五	ycubx	654000
+隔三差五	ycuax	654000
 刀耕火种	ycumj	232000
 加班加点	ycyij	1480000
 阳奉阴违	ycywb	347000
@@ -128461,6 +128637,7 @@ encoder:
 阻挡层	ydkxb	32200
 阿拉伯联合酋长国	ydnco	414000
 阿拉伯语	ydnsb	1750000
+阿拉伯语	ydnsa	1750000
 阿拉伯文	ydnso	649000
 阿拉伯也门共和国	ydnyt	17900
 民事行为	ydouv	1230000
@@ -128931,11 +129108,13 @@ encoder:
 统考成绩	zbhzc	350000
 编者按	zbmdw	3720000
 维吾尔族	zbrsm	908000
+维吾尔族	zarsm	908000
 出境险	zbsyo	296
 参考资料	zbtut	6320000
 参考消息	zbvnw	1220000
 发动群众	zbxoo	936000
 维吾尔	zbxrk	8370000
+维吾尔	zaxrk	8370000
 好起来	zbybk	3770000
 发动机	zbzfq	21100000
 经互会	zbzob	28100
@@ -129704,6 +129883,7 @@ encoder:
 互			bz
 亓			bn
 五			bx
+五			ax
 井			bn
 亖			bb
 亗			lb
@@ -129825,6 +130005,7 @@ encoder:
 伋			ny
 伌			ng
 伍			nb
+伍			na
 伎			ne
 伏			ng
 伐			nh
@@ -130012,6 +130193,7 @@ encoder:
 俆			no
 俇			nq
 俈			nm
+俉			na
 俉			nb
 俊			nz
 俋			nj
@@ -131154,6 +131336,7 @@ encoder:
 吼			jy
 吽			jm
 吾			bx
+吾			ax
 吿			mj
 呀			jh
 呁			mj
@@ -134323,6 +134506,7 @@ encoder:
 悝			uk
 悞			uj
 悟			ub
+悟			ua
 悠			ni
 悡			mk
 悢			us
@@ -138531,6 +138715,7 @@ encoder:
 焎			dp
 焏			yj
 焐			ub
+焐			ua
 焑			uj
 焒			uj
 焓			uo
@@ -145071,6 +145256,7 @@ encoder:
 誜			sz
 誝			so
 語			sb
+語			sa
 誟			sb
 誠			sh
 誡			sh
@@ -145406,6 +145592,7 @@ encoder:
 诫			sh
 诬			sb
 语			sb
+语			sa
 诮			sk
 误			sj
 诰			sm
